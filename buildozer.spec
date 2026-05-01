@@ -13,6 +13,7 @@ android.minapi = 21
 android.ndk = 25b
 android.sdk = 30
 android.arch = armeabi-v7a
+android.accept_sdk_license = 1
 icon.filename = %(source.dir)s/icon.png
 p4a.branch = master
 fullscreen = 0
