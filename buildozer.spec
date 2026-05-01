@@ -13,7 +13,7 @@ android.sdk_path = /usr/local/lib/android/sdk
 android.ndk_path = /usr/local/lib/android/sdk/ndk/27.3.13750724
 android.api = 33
 android.minapi = 21
-android.arch = armeabi-v7a
+android.archs = armeabi-v7a
 android.accept_sdk_license = 1
 
 p4a.branch = develop
